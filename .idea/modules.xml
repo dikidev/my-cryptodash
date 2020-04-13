@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/my-cryptodash.iml" filepath="$PROJECT_DIR$/.idea/my-cryptodash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/my-coinstox.iml" filepath="$PROJECT_DIR$/.idea/my-coinstox.iml" />
     </modules>
   </component>
 </project>
