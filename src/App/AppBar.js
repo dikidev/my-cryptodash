@@ -5,6 +5,7 @@ import {AppContext} from "./AppProvider";
 /* Logo - CryptoStox */
 const Logo = styled.div`
     font-size: 1.5em;
+
 `
 /* AppBar - Navigation Dashboard & Settings */
 const Bar = styled.div`
